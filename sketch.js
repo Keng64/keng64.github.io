@@ -28,7 +28,7 @@ function preload() {
   img[11] = loadImage('Resources/EndingSceneResources/utopiaEnd.png');
 
   // load in assets
-  assets["enemy1"] = loadImage('Resources/Handcuff.PNG');
+  assets["enemy1"] = loadImage('Resources/handcuff2.png');
   assets["ground"] = loadImage('Resources/grass.png');
   assets["enemy2"] = loadImage('Resources/Second enemy.PNG');
 
