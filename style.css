@@ -1,7 +1,43 @@
-html, body {
-  margin: 0;
-  padding: 0;
-}
-canvas {
-  display: block;
-}
+body {
+    background: #DDC3C3;
+    color: #000;
+    padding: 25px;
+    font-family: sans-serif;
+  }
+  
+  /*
+  
+  none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit; 
+  
+  */
+  
+  #yes {
+    background: #DDC3C3;
+    border-style: dotted;
+    border-color: purple;
+    color: black;
+    font-size: 25px;
+    font-family: cursive;
+    /*text-align: center;*/
+    margin-left: 35%;
+  }
+  
+  #yes:hover {
+    background: purple;
+    color: yellow;
+  }
+  
+  #no {
+    background: #DDC3C3;
+    border-style: dotted;
+    border-color: purple;
+    color: black;
+    font-size: 25px;
+    font-family: cursive;
+    margin-bottom: 50px;
+  }
+  
+  #no:hover {
+    background: purple;
+    color: yellow;
+  }
