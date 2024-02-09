@@ -1,4 +1,4 @@
-setInterval(loop, 50);
+setInterval(loop, 5);
 
 function loop() {
   let para = document.createElement("p");
