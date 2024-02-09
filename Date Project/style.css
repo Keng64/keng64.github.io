@@ -1,0 +1,48 @@
+body {
+  background: #DDC3C3;
+  color: #000;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+/*
+
+none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit; 
+
+*/
+
+#yes_image {
+  width: 100px;
+  height: 80px;
+}
+
+#yes {
+  background: #DDC3C3;
+  border-style: none;
+  border-color: purple;
+  color: black;
+  font-size: 25px;
+  font-family: cursive;
+  /*text-align: center;*/
+  left: 50%;
+  top: 30%;
+  position: absolute;
+}
+
+#no {
+  background: transparent;
+  border-style: none;
+  border-color: purple;
+  color: black;
+  font-size: 25px;
+  font-family: cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+h1 {
+  color: white;
+  font-family: cursive;
+  margin-left: 45%;
+}
