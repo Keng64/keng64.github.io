@@ -13,5 +13,7 @@ function loop() {
   bill_nye.style.left = Math.random() * (99) + 1 + "%";
   bill_nye.style.top = Math.random() * (99) + 1 + "%";
   bill_nye.src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/de36eea-d271bd08-275a-4281-936e-766cdc80715f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGUzNmVlYS1kMjcxYmQwOC0yNzVhLTQyODEtOTM2ZS03NjZjZGM4MDcxNWYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6rNjSNlMC85-x_k5lV5p1xujGd6uR2OimoJ1hp6gIKE";
+  bill_nye.width = "50px";
+  bill_nye.height = "50px";
   document.body.appendChild(para);
 }
