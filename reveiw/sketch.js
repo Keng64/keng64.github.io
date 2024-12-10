@@ -11,7 +11,7 @@ function preload() {
   morgan = loadImage('/assets/morgan.jpg');
   nate = loadImage('/assets/nate.jpg');
   nocharacter = loadImage('/assets/nocharacter.jpg');
-  menuBackground = loadImage('/assets/menubackground.png');
+  menuBackground = loadImage('/assets/backdrop.png');
   hole=loadImage('/assets/hole.png');
   underground = loadImage('/assets/undergroundBackground.png');
   insideBackground = loadImage('/assets/inside.png')
